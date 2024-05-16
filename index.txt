@@ -1,6 +1,10 @@
  <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
+<<<<<<< HEAD
    <H1> GIT </H1>
+=======
+    <H1> VERSIONAMENTO </H1>
+>>>>>>> 0a1b9c511fd79fc8f1c172a5d93facb8a11369ce
 </BODY>
 </HTML>
